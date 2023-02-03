@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ground
+* source:	https://sketchfab.com/3d-models/ground-b1816f7766b24dd9b8d18eedf573fa23
+* author:	milanpop322 (https://sketchfab.com/milanpop322)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ground" (https://sketchfab.com/3d-models/ground-b1816f7766b24dd9b8d18eedf573fa23) by milanpop322 (https://sketchfab.com/milanpop322) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

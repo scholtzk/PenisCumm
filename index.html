@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <title>Vite + TS</title>
+    <link rel="stylesheet" type="text/css" href="base.css">
+    <div id="cursor"></div>
+  </head>
+  <body>
+    <div class="cursor" id="cursor"></div>
+    <script>
+
+      const cursor = document.querySelector('.cursor');
+      
+      document.addEventListener('mousemove', e => {
+          cursor.setAttribute("style", "top: "+(e.pageY - 10)+"px; left: "+(e.pageX - 50)+"px")
+      })
+      
+      </script>
+    <script>document.body.style.overflow = 'hidden';
+    </script>
+    <!-- <script> src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"</script> -->
+    <script type="module" src="/src/test.js"></script>
+  </body>
+</html>
